@@ -17,7 +17,7 @@ class Agenda extends Component {
       {
         start: moment().toDate(),
         end: moment().add(1, "days").toDate(),
-        title: "Joga Activitie ",
+        title: "Yoga Activitie ",
       },
     ],
   };
