@@ -22,12 +22,9 @@ class Home extends Component {
 
 
 
-  <Image cloudName="demo" publicId="sample" width="300" crop="scale" />
 
   <CloudinaryContext cloudName="demo">
-  <div>
-    <Image publicId="front_face.png" width="50" crop="scale" />
-  </div>
+ 
   <Image publicId="front_face.png" width="0.5" crop="scale" />
 </CloudinaryContext>
 
